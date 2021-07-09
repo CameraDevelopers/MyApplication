@@ -4,23 +4,23 @@
   "ad_filter_sticker_interval_num":1,
   "ad_mix":{
     "ad_native_click_area_only_button_f":1,
-    "ad_g_appid":ca-app-pub-8718608179711071~8117836007,
+    "ad_g_appid":ca-app-pub-3940256099942544~3347511713,
     "ad_priority_source":fb,
     "ad_cache_f":1,
     "ads":[
       { 
         "ad_place":chaye3,
-        "ad_pid":ca-app-pub-8718608179711071/9917825226,
+        "ad_pid":ca-app-pub-3940256099942544/3419835294,
         "ad_source":admob,
         "ad_type":interstitial},
       { 
         "ad_place":chaye2,
-        "ad_pid":ca-app-pub-8718608179711071/7100090192,
+        "ad_pid":ca-app-pub-3940256099942544/3419835294,
         "ad_source":admob,
         "ad_type":interstitial},
       { 
         "ad_place":chaye,
-        "ad_pid":ca-app-pub-8718608179711071/6585262484,
+        "ad_pid":ca-app-pub-3940256099942544/3419835294,
         "ad_source":admob,
         "ad_type":interstitial},
       { 
